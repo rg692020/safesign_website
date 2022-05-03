@@ -9,6 +9,6 @@
     color: #fff;
 }
 
-.topnav a.hover {
+.topnav a:hover {
     background-color: green;
 }
