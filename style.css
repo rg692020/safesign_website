@@ -1,0 +1,18 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    padding: 14px 16px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.topnav a:hover {
+    background-color: grey;
+}
+
+.topnav a:active {
+    background-color: green;
+}
