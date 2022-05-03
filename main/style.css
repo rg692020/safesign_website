@@ -12,7 +12,3 @@
 .topnav a:hover {
     background-color: grey;
 }
-
-.topnav a.active {
-    background-color: green;
-}
