@@ -1,3 +1,10 @@
+<?php
+	$sprache=Array();
+
+
+?>
+
+
 <!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
@@ -8,13 +15,13 @@
 <body>
 	<!-- This is the outline for the navbar, used to navigate between different parts of the website -->
 	<div class="topnav">
-		<a href="">Home</a>
+		<a href="" style=background-color: green;>Home</a>
 		<a href="./Produkt/">Unser Produkt</a>
 		<a href="./Sicherheit/">Sicherheit</a>
 		<a href="./Team/">Team</a>
 		<a href="./Kontakt/">Kontakt</a>
 		<a href="./Impressum/">Impressum</a>
-		<a style="text-align: right;">Change language</a>
+		<a style=text-align: right;>Change language</a>
 	</div>
 	<a> Hauptseite </a>
 </body>
