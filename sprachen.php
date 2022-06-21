@@ -12,6 +12,11 @@
     $sprache[2]['Produkt']='Notre produit';
     $sprache[3]['Produkt']='Nuestro producto';
 
+    $sprache[0]['Sicherheit']='Sicherheit';
+    $sprache[1]['Sicherheit']='Security';
+    $sprache[2]['Sicherheit']='Sécurité';
+    $sprache[3]['Sicherheit']='Seguridad';
+
     $sprache[0]['Kontakt']='Kontakt';
     $sprache[1]['Kontakt']='Contact';
     $sprache[2]['Kontakt']='Contact';
@@ -21,6 +26,7 @@
     $sprache[1]['Impressum']='imprint';
     $sprache[2]['Impressum']='empreinte';
     $sprache[3]['Impressum']='pie de imprenta';
+    //end of navbar translation
 
     $sprache[0]['Ueberschrift']='Hauptseite';
     $sprache[1]['Ueberschrift']='Homepage';
