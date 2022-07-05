@@ -12,3 +12,17 @@
 .topnav a:hover {
     background-color: grey;
 }
+
+.form-inline {
+    display: inline;
+}
+
+.inline-block {
+    display: flex;
+}
+
+#imgs {
+    display: flex;
+}
+
+/* Gesamtes Programm von Felix Ritter

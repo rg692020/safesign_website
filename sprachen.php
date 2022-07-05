@@ -28,9 +28,30 @@
     $sprache[3]['Impressum']='pie de imprenta';
     //end of navbar translation
 
-    $sprache[0]['Ueberschrift']='Hauptseite';
-    $sprache[1]['Ueberschrift']='Homepage';
-    $sprache[2]['Ueberschrift']='sité du main';
-    $sprache[3]['Ueberschrift']='página principal';
+    $sprache[0]['Inhalt1Home']='Die Tage von tausenden verschiedenen Passwörtern sind vorbei';
+    $sprache[1]['Inhalt1Home']='The days of using thousands of different passwords are over';
+    $sprache[2]['Inhalt1Home']="L'époque où l'on utilisait des milliers de mots de passe différents est révolue";
+    $sprache[3]['Inhalt1Home']='Los días de usar miles de contraseñas diferentes han terminado';
 
+    $sprache[0]['Inhalt2Home']='mit SafeSign!';
+    $sprache[1]['Inhalt2Home']='with SafeSign!';
+    $sprache[2]['Inhalt2Home']="avec SafeSign!";
+    $sprache[3]['Inhalt2Home']='con SafeSign!';
+
+    $sprache[0]['Inhalt3Home']='SafeSign ist aber kein einfacher Passwort-Manager';
+    $sprache[1]['Inhalt3Home']='But SafeSign is not a simple password manager';
+    $sprache[2]['Inhalt3Home']="Mais SafeSign n'est pas un simple gestionnaire de mots de passe";
+    $sprache[3]['Inhalt3Home']='Pero SafeSign no es un simple administrador de contraseñas';
+
+    $sprache[0]['Inhalt4Home']='Wir versuchen, Online-Authentifikation zu <u>revolutionieren</u>!';
+    $sprache[1]['Inhalt4Home']="We're trying to <u>revolutionize</u> online authentication!";
+    $sprache[2]['Inhalt4Home']="Nous essayons de <u>révolutionner</u> l'authentification en ligne!";
+    $sprache[3]['Inhalt4Home']='Estamos tratando de <u>revolucionar</u> la autenticación en línea!';
+    
+    $sprache[0]['Inhalt5Home']='Interessiert, mehr herauszufinden? Klicken Sie auf einen der Tabs in der Navbar!';
+    $sprache[1]['Inhalt5Home']="Interested in finding out more? Click on one of the tabs in the navbar!";
+    $sprache[2]['Inhalt5Home']="Vous voulez en savoir plus? Cliquez sur l'un des onglets de la barre de navigation!";
+    $sprache[3]['Inhalt5Home']='¿Interesado en saber más? ¡Haz clic en una de las pestañas de la barra de navegación!';   
 ?>
+
+<!-- Gesamtes Programm von Felix Ritter -->

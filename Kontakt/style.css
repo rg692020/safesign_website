@@ -12,3 +12,9 @@
 .topnav a:hover {
     background-color: grey;
 }
+
+.form-inline {
+    display: inline;
+}
+
+/* Gesamte Datei von Felix Ritter */ 
