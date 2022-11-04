@@ -45,7 +45,7 @@
 <div> <center>
     <img src ="ceo.jpg" style="height:15%; width:15%;"> 
 </center> </div>  <br> <a style="font-size:30px"><center>CEO - Felix Ritter</center></a>
-</center> </div> <a style="font-size:15px; color:#858c88"><center>felix69@safesign.de</center></a> <br><br><br>
+</center> </div> <a style="font-size:15px; color:#858c88"><center>felix@safesign.de</center></a> <br><br><br>
 <div> <center>
     <img src ="cto.jpg" style="height:15%; width:15%;"> 
 </center> </div>  <br> <a style="font-size:30px"><center>CTO - Tom Jaroslawsky</center></a>
