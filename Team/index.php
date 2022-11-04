@@ -44,19 +44,22 @@
 	<br> <br>
 <div> <center>
     <img src ="ceo.jpg" style="height:15%; width:15%;"> 
-</center> </div>  <br> <a style="font-size:30px"><center>CEO - Felix Ritter</center></a> <br><br><br>
+</center> </div>  <br> <a style="font-size:30px"><center>CEO - Felix Ritter</center></a>
+</center> </div> <a style="font-size:15px; color:#858c88"><center>felix69@safesign.de</center></a> <br><br><br>
 <div> <center>
     <img src ="cto.jpg" style="height:15%; width:15%;"> 
-</center> </div>  <br> <a style="font-size:30px"><center>CTO - Tom Jaroslawsky</center></a> <br><br><br> 
+</center> </div>  <br> <a style="font-size:30px"><center>CTO - Tom Jaroslawsky</center></a>
+</center> </div> <a style="font-size:15px; color:#858c88"><center>thomas@safesign.de</center></a> <br><br><br>
 <div> <center>
     <img src ="cfo.jpg" style="height:15%; width:15%;"> 
-</center> </div>  <br> <a style="font-size:30px"><center>CFO - Randy Ganskow</center></a> <br><br><br>
+</center> </div>  <br> <a style="font-size:30px"><center>CFO - Randy Ganskow</center></a>
+</center> </div> <a style="font-size:15px; color:#858c88"><center>randy@safesign.de</center></a> <br><br><br>
 <div> <center>
     <img src ="cmo.jpg" style="height:15%; width:15%;"> 
-</center> </div>  <br> <a style="font-size:30px"><center>CMO - Iliya Golestani</center></a> <br><br><br><br><br><br>
+</center> </div>  <br> <a style="font-size:30px"><center>CMO - Iliya Golestani</center></a>
+</center> </div> <a style="font-size:15px; color:#858c88"><center>huyhoangpham@safesign.de</center></a> <br><br><br><br><br><br><br><br>
 
 </div>
 </div>
 </body>
-
 <!-- Gesamtes Programm von Felix Ritter -->
